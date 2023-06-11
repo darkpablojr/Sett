@@ -4,7 +4,10 @@
     font-family: sans-serif;
 
 }
-
+body{
+   background-size: 79px;
+    background-image: url(png-transparent-dumbbell-dumbbell-decoration-fitness-image-file-formats-decor.png);
+}
 img{
     width: 50vh;
 }
@@ -63,4 +66,5 @@ footer{
     text-align: center; 
     padding: 5px;
 }
+
 
